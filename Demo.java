@@ -24,13 +24,13 @@ public  vehical(){
 }
 class Demo{
     public static void main(String[] args){
-        // vehical object 
+        // Vehical object 
         vehical v1 = new vehical();
         System.out.println("Bike name is :"+v1.bike_name);
         System.out.println("Bike model is :"+v1.model);
         System.out.println("Bike registration :"+v1.registration);
         System.out.println("Bike number is :"+v1.bike_no);
-        // student object 
+        // Student object 
         student s1 = new student();
         System.out.println("Student name is : "+s1.name);
         System.out.println("Student age is : "+s1.age);
