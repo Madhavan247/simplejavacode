@@ -8,7 +8,8 @@ public class function {
         System.out.println(a/b);
         System.out.println(a%b);
 
-    }
+    } 
+
     void Hay(){
         System.out.println("Hi! I am Maddy");
     }
